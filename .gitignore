@@ -1,0 +1,24 @@
+# Node.js built dependencies
+node_modules
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Environment variables
+.env
+.env.development
+
+# Build directory
+dist
+
+# Sequelize ORM migration folder
+
+# Uploaded files and assets
+uploads
+
+# OS generated files
+*.DS_Store
+Thumbs.db
+
+.idea
